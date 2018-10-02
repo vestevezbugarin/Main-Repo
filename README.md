@@ -1,3 +1,3 @@
-# Main-Repo
+# Main-Repository
 
 Hola soy el ReadMe
