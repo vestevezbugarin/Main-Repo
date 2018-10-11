@@ -8,3 +8,4 @@
 ###### Resumen:
 
 > Se han aplicado cambios al ReadMe para ejercicios de clase.
+> Segunda modificacion del ReadMe para un ejercicio de clase
