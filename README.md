@@ -7,4 +7,4 @@
 
 ###### Resumen:
 
-> cambios aplicados al readme para ejercicios de clase
+> Se han aplicado cambios al ReadMe para ejercicios de clase.
